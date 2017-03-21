@@ -1,0 +1,63 @@
+C:\Users\Vladimir\Downloads\04c5d4d94131cbbb973acd08151373bb (1)\Lesson-5-4\Lesson-5-4\bin\Debug\Lesson-5-4.exe
+C:\Users\Vladimir\Downloads\04c5d4d94131cbbb973acd08151373bb (1)\Lesson-5-4\Lesson-5-4\bin\Debug\Lesson-5-4.pdb
+C:\Users\Vladimir\Downloads\04c5d4d94131cbbb973acd08151373bb (1)\Lesson-5-4\Lesson-5-4\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Vladimir\Downloads\04c5d4d94131cbbb973acd08151373bb (1)\Lesson-5-4\Lesson-5-4\bin\Debug\Tao.FreeGlut.xml
+C:\Users\Vladimir\Downloads\04c5d4d94131cbbb973acd08151373bb (1)\Lesson-5-4\Lesson-5-4\obj\x86\Debug\Lesson_5_4.Form1.resources
+C:\Users\Vladimir\Downloads\04c5d4d94131cbbb973acd08151373bb (1)\Lesson-5-4\Lesson-5-4\obj\x86\Debug\Lesson_5_4.Properties.Resources.resources
+C:\Users\Vladimir\Downloads\04c5d4d94131cbbb973acd08151373bb (1)\Lesson-5-4\Lesson-5-4\obj\x86\Debug\Lesson-5-4.csproj.GenerateResource.Cache
+C:\Users\Vladimir\Downloads\04c5d4d94131cbbb973acd08151373bb (1)\Lesson-5-4\Lesson-5-4\obj\x86\Debug\Lesson-5-4.exe
+C:\Users\Vladimir\Downloads\04c5d4d94131cbbb973acd08151373bb (1)\Lesson-5-4\Lesson-5-4\obj\x86\Debug\Lesson-5-4.pdb
+D:\Windows 06.04.2015\Users\Vladimir\Downloads\04c5d4d94131cbbb973acd08151373bb (1)\Lesson-5-4\Lesson-5-4\obj\x86\Debug\Lesson-5-4.exe
+D:\Windows 06.04.2015\Users\Vladimir\Downloads\04c5d4d94131cbbb973acd08151373bb (1)\Lesson-5-4\Lesson-5-4\obj\x86\Debug\Lesson-5-4.pdb
+D:\Windows 06.04.2015\Users\Vladimir\Downloads\04c5d4d94131cbbb973acd08151373bb (1)\Lesson-5-4\Lesson-5-4\obj\x86\Debug\Lesson-5-4.csprojResolveAssemblyReference.cache
+D:\Windows 06.04.2015\Users\Vladimir\Downloads\04c5d4d94131cbbb973acd08151373bb (1)\Lesson-5-4\Lesson-5-4\obj\x86\Debug\Lesson_5_4.Form1.resources
+D:\Windows 06.04.2015\Users\Vladimir\Downloads\04c5d4d94131cbbb973acd08151373bb (1)\Lesson-5-4\Lesson-5-4\obj\x86\Debug\Lesson_5_4.Properties.Resources.resources
+D:\Windows 06.04.2015\Users\Vladimir\Downloads\04c5d4d94131cbbb973acd08151373bb (1)\Lesson-5-4\Lesson-5-4\obj\x86\Debug\Lesson-5-4.csproj.GenerateResource.Cache
+D:\Windows 06.04.2015\Users\Vladimir\Downloads\04c5d4d94131cbbb973acd08151373bb (1)\Lesson-5-4\Lesson-5-4\bin\Debug\Lesson-5-4.exe
+D:\Windows 06.04.2015\Users\Vladimir\Downloads\04c5d4d94131cbbb973acd08151373bb (1)\Lesson-5-4\Lesson-5-4\bin\Debug\Lesson-5-4.pdb
+D:\Windows 06.04.2015\Users\Vladimir\Downloads\04c5d4d94131cbbb973acd08151373bb (1)\Lesson-5-4\Lesson-5-4\bin\Debug\Tao.FreeGlut.dll
+D:\Windows 06.04.2015\Users\Vladimir\Downloads\04c5d4d94131cbbb973acd08151373bb (1)\Lesson-5-4\Lesson-5-4\bin\Debug\Tao.FreeGlut.xml
+D:\Windows 06.04.2015\Users\Vladimir\Downloads\04c5d4d94131cbbb973acd08151373bb (1)\Lesson-5-4 — копия\Lesson-5-4\obj\x86\Debug\Lesson-5-4.exe
+D:\Windows 06.04.2015\Users\Vladimir\Downloads\04c5d4d94131cbbb973acd08151373bb (1)\Lesson-5-4 — копия\Lesson-5-4\obj\x86\Debug\Lesson-5-4.pdb
+D:\Windows 06.04.2015\Users\Vladimir\Downloads\04c5d4d94131cbbb973acd08151373bb (1)\Lesson-5-4 — копия\Lesson-5-4\bin\Debug\Lesson-5-4.exe
+D:\Windows 06.04.2015\Users\Vladimir\Downloads\04c5d4d94131cbbb973acd08151373bb (1)\Lesson-5-4 — копия\Lesson-5-4\bin\Debug\Lesson-5-4.pdb
+D:\Windows 06.04.2015\Users\Vladimir\Downloads\04c5d4d94131cbbb973acd08151373bb (1)\Lesson-5-4 — копия\Lesson-5-4\bin\Debug\Tao.FreeGlut.dll
+D:\Windows 06.04.2015\Users\Vladimir\Downloads\04c5d4d94131cbbb973acd08151373bb (1)\Lesson-5-4 — копия\Lesson-5-4\bin\Debug\Tao.FreeGlut.xml
+D:\Windows 06.04.2015\Users\Vladimir\Downloads\04c5d4d94131cbbb973acd08151373bb (1)\Lesson-5-4 — копия\Lesson-5-4\obj\x86\Debug\Lesson-5-4.csprojResolveAssemblyReference.cache
+D:\Windows 06.04.2015\Users\Vladimir\Downloads\04c5d4d94131cbbb973acd08151373bb (1)\Lesson-5-4 — копия\Lesson-5-4\obj\x86\Debug\Lesson_5_4.Form1.resources
+D:\Windows 06.04.2015\Users\Vladimir\Downloads\04c5d4d94131cbbb973acd08151373bb (1)\Lesson-5-4 — копия\Lesson-5-4\obj\x86\Debug\Lesson_5_4.Properties.Resources.resources
+D:\Windows 06.04.2015\Users\Vladimir\Downloads\04c5d4d94131cbbb973acd08151373bb (1)\Lesson-5-4 — копия\Lesson-5-4\obj\x86\Debug\Lesson-5-4.csproj.GenerateResource.Cache
+D:\LAB3\Lesson-5-4\obj\x86\Debug\Lesson-5-4.exe
+D:\LAB3\Lesson-5-4\obj\x86\Debug\Lesson-5-4.pdb
+D:\LAB3\Lesson-5-4\bin\Debug\Lesson-5-4.exe
+D:\LAB3\Lesson-5-4\bin\Debug\Lesson-5-4.pdb
+D:\LAB3\Lesson-5-4\bin\Debug\Tao.FreeGlut.dll
+D:\LAB3\Lesson-5-4\bin\Debug\Tao.FreeGlut.xml
+D:\LAB3\Lesson-5-4\obj\x86\Debug\Lesson-5-4.csprojResolveAssemblyReference.cache
+D:\LAB3\Lesson-5-4\obj\x86\Debug\Lesson_5_4.Form1.resources
+D:\LAB3\Lesson-5-4\obj\x86\Debug\Lesson_5_4.Properties.Resources.resources
+D:\LAB3\Lesson-5-4\obj\x86\Debug\Lesson-5-4.csproj.GenerateResource.Cache
+E:\University\3-й курс\2-й семестр\ЗП КГ\Lab3\LAB3\Lesson-5-4\obj\x86\Debug\Lesson-5-4.exe
+E:\University\3-й курс\2-й семестр\ЗП КГ\Lab3\LAB3\Lesson-5-4\obj\x86\Debug\Lesson-5-4.pdb
+E:\University\3-й курс\2-й семестр\ЗП КГ\Lab3\LAB3\Lesson-5-4\bin\Debug\Lesson-5-4.exe
+E:\University\3-й курс\2-й семестр\ЗП КГ\Lab3\LAB3\Lesson-5-4\bin\Debug\Lesson-5-4.pdb
+E:\University\3-й курс\2-й семестр\ЗП КГ\Lab3\LAB3\Lesson-5-4\bin\Debug\Tao.FreeGlut.dll
+E:\University\3-й курс\2-й семестр\ЗП КГ\Lab3\LAB3\Lesson-5-4\bin\Debug\Tao.FreeGlut.xml
+E:\University\3-й курс\2-й семестр\ЗП КГ\Lab3\LAB3\Lesson-5-4\obj\x86\Debug\Lesson-5-4.csprojResolveAssemblyReference.cache
+E:\University\3-й курс\2-й семестр\ЗП КГ\Lab3\LAB3\Lesson-5-4\obj\x86\Debug\Lesson_5_4.Form1.resources
+E:\University\3-й курс\2-й семестр\ЗП КГ\Lab3\LAB3\Lesson-5-4\obj\x86\Debug\Lesson_5_4.Properties.Resources.resources
+E:\University\3-й курс\2-й семестр\ЗП КГ\Lab3\LAB3\Lesson-5-4\obj\x86\Debug\Lesson-5-4.csproj.GenerateResource.Cache
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab3\LAB3\Lesson-5-4\obj\x86\Debug\Lesson-5-4.exe
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab3\LAB3\Lesson-5-4\obj\x86\Debug\Lesson-5-4.pdb
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab3\LAB3\Lesson-5-4\bin\Debug\Lesson-5-4.exe
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab3\LAB3\Lesson-5-4\bin\Debug\Lesson-5-4.pdb
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab3\LAB3\Lesson-5-4\bin\Debug\Tao.FreeGlut.dll
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab3\LAB3\Lesson-5-4\bin\Debug\Tao.OpenGl.dll
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab3\LAB3\Lesson-5-4\bin\Debug\Tao.Platform.Windows.dll
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab3\LAB3\Lesson-5-4\bin\Debug\Tao.FreeGlut.xml
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab3\LAB3\Lesson-5-4\bin\Debug\Tao.OpenGl.xml
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab3\LAB3\Lesson-5-4\bin\Debug\Tao.Platform.Windows.xml
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab3\LAB3\Lesson-5-4\obj\x86\Debug\Lesson-5-4.csprojResolveAssemblyReference.cache
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab3\LAB3\Lesson-5-4\obj\x86\Debug\Lesson_5_4.Form1.resources
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab3\LAB3\Lesson-5-4\obj\x86\Debug\Lesson_5_4.Properties.Resources.resources
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab3\LAB3\Lesson-5-4\obj\x86\Debug\Lesson-5-4.csproj.GenerateResource.Cache

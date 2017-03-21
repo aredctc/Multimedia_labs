@@ -1,0 +1,24 @@
+c:\users\ruslan kuziak\documents\visual studio 2013\Projects\lab2_StopWatch\lab2_StopWatch\bin\Debug\lab2_StopWatch.exe.config
+c:\users\ruslan kuziak\documents\visual studio 2013\Projects\lab2_StopWatch\lab2_StopWatch\bin\Debug\lab2_StopWatch.exe
+c:\users\ruslan kuziak\documents\visual studio 2013\Projects\lab2_StopWatch\lab2_StopWatch\bin\Debug\lab2_StopWatch.pdb
+c:\users\ruslan kuziak\documents\visual studio 2013\Projects\lab2_StopWatch\lab2_StopWatch\obj\Debug\lab2_StopWatch.csprojResolveAssemblyReference.cache
+c:\users\ruslan kuziak\documents\visual studio 2013\Projects\lab2_StopWatch\lab2_StopWatch\obj\Debug\lab2_StopWatch.Form1.resources
+c:\users\ruslan kuziak\documents\visual studio 2013\Projects\lab2_StopWatch\lab2_StopWatch\obj\Debug\lab2_StopWatch.Properties.Resources.resources
+c:\users\ruslan kuziak\documents\visual studio 2013\Projects\lab2_StopWatch\lab2_StopWatch\obj\Debug\lab2_StopWatch.csproj.GenerateResource.Cache
+c:\users\ruslan kuziak\documents\visual studio 2013\Projects\lab2_StopWatch\lab2_StopWatch\obj\Debug\lab2_StopWatch.exe
+c:\users\ruslan kuziak\documents\visual studio 2013\Projects\lab2_StopWatch\lab2_StopWatch\obj\Debug\lab2_StopWatch.pdb
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\bin\Debug\lab2_StopWatch.exe.config
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\obj\Debug\lab2_StopWatch.exe
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\obj\Debug\lab2_StopWatch.pdb
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\obj\Debug\lab2_StopWatch.csprojResolveAssemblyReference.cache
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\obj\Debug\lab2_StopWatch.Form1.resources
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\obj\Debug\lab2_StopWatch.Properties.Resources.resources
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\obj\Debug\lab2_StopWatch.csproj.GenerateResource.Cache
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\bin\Debug\lab2_StopWatch.exe
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\bin\Debug\lab2_StopWatch.pdb
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\bin\Debug\Tao.FreeGlut.dll
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\bin\Debug\Tao.OpenGl.dll
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\bin\Debug\Tao.Platform.Windows.dll
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\bin\Debug\Tao.FreeGlut.xml
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\bin\Debug\Tao.OpenGl.xml
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\bin\Debug\Tao.Platform.Windows.xml

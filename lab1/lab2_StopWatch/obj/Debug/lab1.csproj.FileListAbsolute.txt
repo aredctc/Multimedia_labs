@@ -1,0 +1,15 @@
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\bin\Debug\lab2_StopWatch.exe.config
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\bin\Debug\lab2_StopWatch.exe
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\bin\Debug\lab2_StopWatch.pdb
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\bin\Debug\Tao.FreeGlut.dll
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\bin\Debug\Tao.OpenGl.dll
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\bin\Debug\Tao.Platform.Windows.dll
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\bin\Debug\Tao.FreeGlut.xml
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\bin\Debug\Tao.OpenGl.xml
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\bin\Debug\Tao.Platform.Windows.xml
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\obj\Debug\lab2_StopWatch.Form1.resources
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\obj\Debug\lab2_StopWatch.Properties.Resources.resources
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\obj\Debug\lab1.csproj.GenerateResource.Cache
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\obj\Debug\lab2_StopWatch.exe
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab2\lab2_StopWatch\lab2_StopWatch\obj\Debug\lab2_StopWatch.pdb

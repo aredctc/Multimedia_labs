@@ -1,0 +1,46 @@
+c:\users\dima\documents\visual studio 2013\Projects\OpenGLCSharp\OpenGLCSharp\bin\Debug\OpenGLCSharp.exe.config
+c:\users\dima\documents\visual studio 2013\Projects\OpenGLCSharp\OpenGLCSharp\bin\Debug\OpenGLCSharp.exe
+c:\users\dima\documents\visual studio 2013\Projects\OpenGLCSharp\OpenGLCSharp\bin\Debug\OpenGLCSharp.pdb
+c:\users\dima\documents\visual studio 2013\Projects\OpenGLCSharp\OpenGLCSharp\obj\Debug\OpenGLCSharp.csprojResolveAssemblyReference.cache
+c:\users\dima\documents\visual studio 2013\Projects\OpenGLCSharp\OpenGLCSharp\obj\Debug\OpenGLCSharp.Form1.resources
+c:\users\dima\documents\visual studio 2013\Projects\OpenGLCSharp\OpenGLCSharp\obj\Debug\OpenGLCSharp.Properties.Resources.resources
+c:\users\dima\documents\visual studio 2013\Projects\OpenGLCSharp\OpenGLCSharp\obj\Debug\OpenGLCSharp.csproj.GenerateResource.Cache
+c:\users\dima\documents\visual studio 2013\Projects\OpenGLCSharp\OpenGLCSharp\obj\Debug\OpenGLCSharp.exe
+c:\users\dima\documents\visual studio 2013\Projects\OpenGLCSharp\OpenGLCSharp\obj\Debug\OpenGLCSharp.pdb
+D:\OpenGLCSharp\OpenGLCSharp\bin\Debug\OpenGLCSharp.exe.config
+D:\OpenGLCSharp\OpenGLCSharp\obj\Debug\OpenGLCSharp.exe
+D:\OpenGLCSharp\OpenGLCSharp\obj\Debug\OpenGLCSharp.pdb
+D:\OpenGLCSharp\OpenGLCSharp\bin\Debug\OpenGLCSharp.exe
+D:\OpenGLCSharp\OpenGLCSharp\bin\Debug\OpenGLCSharp.pdb
+D:\OpenGLCSharp\OpenGLCSharp\obj\Debug\OpenGLCSharp.csprojResolveAssemblyReference.cache
+D:\OpenGLCSharp\OpenGLCSharp\obj\Debug\OpenGLCSharp.Form1.resources
+D:\OpenGLCSharp\OpenGLCSharp\obj\Debug\OpenGLCSharp.Properties.Resources.resources
+D:\OpenGLCSharp\OpenGLCSharp\obj\Debug\OpenGLCSharp.csproj.GenerateResource.Cache
+E:\University\3-й курс\2-й семестр\ЗП КГ\Lab4\OpenGLCSharp\OpenGLCSharp\bin\Debug\OpenGLCSharp.exe.config
+E:\University\3-й курс\2-й семестр\ЗП КГ\Lab4\OpenGLCSharp\OpenGLCSharp\obj\Debug\OpenGLCSharp.exe
+E:\University\3-й курс\2-й семестр\ЗП КГ\Lab4\OpenGLCSharp\OpenGLCSharp\obj\Debug\OpenGLCSharp.pdb
+E:\University\3-й курс\2-й семестр\ЗП КГ\Lab4\OpenGLCSharp\OpenGLCSharp\bin\Debug\OpenGLCSharp.exe
+E:\University\3-й курс\2-й семестр\ЗП КГ\Lab4\OpenGLCSharp\OpenGLCSharp\bin\Debug\OpenGLCSharp.pdb
+E:\University\3-й курс\2-й семестр\ЗП КГ\Lab4\OpenGLCSharp\OpenGLCSharp\obj\Debug\OpenGLCSharp.csprojResolveAssemblyReference.cache
+E:\University\3-й курс\2-й семестр\ЗП КГ\Lab4\OpenGLCSharp\OpenGLCSharp\obj\Debug\OpenGLCSharp.Form1.resources
+E:\University\3-й курс\2-й семестр\ЗП КГ\Lab4\OpenGLCSharp\OpenGLCSharp\obj\Debug\OpenGLCSharp.Properties.Resources.resources
+E:\University\3-й курс\2-й семестр\ЗП КГ\Lab4\OpenGLCSharp\OpenGLCSharp\obj\Debug\OpenGLCSharp.csproj.GenerateResource.Cache
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab4\OpenGLCSharp\OpenGLCSharp\bin\Debug\OpenGLCSharp.exe.config
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab4\OpenGLCSharp\OpenGLCSharp\obj\Debug\OpenGLCSharp.exe
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab4\OpenGLCSharp\OpenGLCSharp\obj\Debug\OpenGLCSharp.pdb
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab4\OpenGLCSharp\OpenGLCSharp\bin\Debug\OpenGLCSharp.exe
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab4\OpenGLCSharp\OpenGLCSharp\bin\Debug\OpenGLCSharp.pdb
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab4\OpenGLCSharp\OpenGLCSharp\bin\Debug\Tao.DevIl.dll
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab4\OpenGLCSharp\OpenGLCSharp\bin\Debug\Tao.FreeGlut.dll
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab4\OpenGLCSharp\OpenGLCSharp\bin\Debug\Tao.FreeType.dll
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab4\OpenGLCSharp\OpenGLCSharp\bin\Debug\Tao.OpenGl.dll
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab4\OpenGLCSharp\OpenGLCSharp\bin\Debug\Tao.Platform.Windows.dll
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab4\OpenGLCSharp\OpenGLCSharp\bin\Debug\Tao.DevIl.xml
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab4\OpenGLCSharp\OpenGLCSharp\bin\Debug\Tao.FreeGlut.xml
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab4\OpenGLCSharp\OpenGLCSharp\bin\Debug\Tao.FreeType.xml
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab4\OpenGLCSharp\OpenGLCSharp\bin\Debug\Tao.OpenGl.xml
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab4\OpenGLCSharp\OpenGLCSharp\bin\Debug\Tao.Platform.Windows.xml
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab4\OpenGLCSharp\OpenGLCSharp\obj\Debug\OpenGLCSharp.csprojResolveAssemblyReference.cache
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab4\OpenGLCSharp\OpenGLCSharp\obj\Debug\OpenGLCSharp.Form1.resources
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab4\OpenGLCSharp\OpenGLCSharp\obj\Debug\OpenGLCSharp.Properties.Resources.resources
+D:\Mine\Study\3 курс, 2 семестр\Мусор\ЗП КГ\Lab4\OpenGLCSharp\OpenGLCSharp\obj\Debug\OpenGLCSharp.csproj.GenerateResource.Cache
